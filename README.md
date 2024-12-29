@@ -31,7 +31,8 @@ Este proyecto es un sencillo juego en Python donde el jugador debe navegar por u
    ```bash
    python laberinto.py
 ## 📝 Notas
-1 .El juego verifica que no te salgas del laberinto ni atravieses paredes.
+1. El juego verifica que no te salgas del laberinto ni atravieses paredes.
 2. El laberinto es predefinido, pero puedes modificarlo fácilmente en el código.
+
 
 ## ¡Disfruta del juego y buena suerte para encontrar la salida! 🚪
